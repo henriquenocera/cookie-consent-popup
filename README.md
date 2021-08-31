@@ -10,4 +10,4 @@
 - CSS
 - JavaScript
 
-##### Projeto desenvolvido para fins educativos sob a [Licença WTFPL](https://github.com/henriquenocera/pesquisa-cep-correios/blob/main/LICENSE)
+##### Projeto desenvolvido para fins educativos sob a [Licença WTFPL](https://github.com/henriquenocera/cookie-consent-popup/blob/main/LICENSE)
